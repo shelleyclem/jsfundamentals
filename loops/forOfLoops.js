@@ -7,7 +7,7 @@ For Of Loops
 
 */
 
-let student = {
+/////let student = {
     studentName: 'Jake from State Farm',
     awesome: true,
     degree: "insurance sales",
@@ -18,8 +18,9 @@ let student = {
    // } ERROR - Inumerable object
 
 
-let soupArray = ['potato', 'broccoli', 'carrot', 'chicken noodle', 'chili'];
+//let soupArray = ['potato', 'broccoli', 'carrot', 'chicken noodle', 'chili'];
 
-for (soup of soupArray){
+//for (soup of soupArray){
     console.log(soup);
-}
+//}
+
